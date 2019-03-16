@@ -1,0 +1,33 @@
+{
+  "name": "cordova-admob-mediation-unity",
+  "version": "1.0.0",
+  "description": "Cordova AdMob Mediation Plugin for Unity Ads",
+  "scripts": {
+    "version": "sync-package-version --cordova-plugin"
+  },
+  "cordova": {
+    "id": "cordova-admob-mediation-unity",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": "ungdesign/cordova-admob-mediation-unity",
+  "author": "ungdesign",
+  "license": "MIT",
+  "keywords": [
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "plugin",
+    "admob",
+    "unityads",
+    "mediation"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "bugs": {
+    "url": "https://github.com/ungdesign/cordova-admob-mediation-unity/issues"
+  },
+  "homepage": "https://github.com/ungdesign/cordova-admob-mediation-unity"
+}
