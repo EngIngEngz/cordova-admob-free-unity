@@ -1,2 +1,2 @@
 # cordova-admob-mediation-unity
-Cordova AdMob Mediation Plugin for Unity Ads
+This mediation plugin is compatible with cordova-plugin-admob-free. Android Only!
