@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="cordova-admob-mediation-unity" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+  <name>cordova-admob-mediation-unity</name>
+  <description>Cordova AdMob Mediation Plugin for Unity Ads</description>
+
+  <engines>
+    <engine name="cordova" version=">=7.0.0" />
+    <engine name="cordova-android" version=">=6.3.0" />
+  </engines>
+
+  <platform name="android">
+    <framework src="com.unity3d.ads:unity-ads:3.0.0" />
+    <framework src="com.google.ads.mediation:unity:3.0.0.2" />
+
+    <dependency id="cordova-plugin-enable-multidex" />
+  </platform>
+  
+</plugin>
