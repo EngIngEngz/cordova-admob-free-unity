@@ -9,8 +9,8 @@
   </engines>
 
   <platform name="android">
-    <framework src="com.unity3d.ads:unity-ads:3.0.0" />
-    <framework src="com.google.ads.mediation:unity:3.0.0.2" />
+    <framework src="com.unity3d.ads:unity-ads:+" />
+    <framework src="com.google.ads.mediation:unity:+" />
 
     <dependency id="cordova-plugin-enable-multidex" />
   </platform>
