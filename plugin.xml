@@ -11,8 +11,6 @@
   <platform name="android">
     <framework src="com.unity3d.ads:unity-ads:+" />
     <framework src="com.google.ads.mediation:unity:+" />
-
-    <dependency id="cordova-plugin-enable-multidex" />
   </platform>
   
 </plugin>
